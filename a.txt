@@ -1,4 +1,5 @@
 Git is a distributed version control sysytem. 
 Git is a free software distibuted under the GPL.
 Git has a mutable index called stage.
-Git tracts changes. 
+Git tracts changes.
+Get a new branch is quick. 
